@@ -16,28 +16,38 @@
 <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" height="50"/> </a> 
 <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" height="50"/> </a>
 <a href="https://leetcode.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" height="50"/></a>
-<a href="https://www.geeksforgeeks.org/data-structures/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="geeksforgeeks" height="50"/></a>
+<a href="https://www.geeksforgeeks.org/data-structures/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="" height="50"/></a>
 
 <div align="center"> 
   
-<!--   <h2>🐍 Contributions 🐍</h2>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-</div> -->
-<h2 align="center">Leetcode Info<h2>
-
-
+  <!-- <h2>🐍 Contributions 🐍</h2>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" /> -->
   
-<p align="center">
+  <h2 align="center">Leetcode Info</h2>
 
-  <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2023-100.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" alt="jyot" height="200" width="200" /></a>
-
-<p align="center">
+  <p align="center">
     <a href="https://leetcode.com/u/anand_083/" target="_blank">
-        <img align="top" src="https://leetcard.jacoblin.cool/anand_038?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Profile Card" />
+      <img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2023-12.gif" alt="" height="200" width="200" />
     </a>
-</p>
+    <a href="https://leetcode.com/u/anand_083/" target="_blank">
+      <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="" height="200" width="200" />
+    </a>
+    <a href="https://leetcode.com/u/anand_083/" target="_blank">
+      <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="" height="200" width="200" />
+    </a>
+    <a href="https://leetcode.com/u/anand_083/" target="_blank">
+      <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2023-100.gif" alt="" height="200" width="200" />
+    </a>
+    <a href="https://leetcode.com/u/anand_083/" target="_blank">
+      <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" alt="" height="200" width="200" />
+    </a>
+  </p>
+
+  <p align="center">
+    <a href="https://leetcode.com/u/anand_083/" target="_blank">
+      <img align="top" src="https://leetcard.jacoblin.cool/anand_038?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Profile Card" />
+    </a>
+  </p>
+</div>
 
 
