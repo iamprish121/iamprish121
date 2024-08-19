@@ -33,8 +33,10 @@
   <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="jyot" height="200" width="200" /></a>
   <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2023-100.gif" alt="jyot" height="200" width="200" /></a>
   <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2023-12.gif" alt="jyot" height="200" width="200" /></a>
-</p>
+  <a href="https://leetcode.com/anand_083/" target="_blank">
+    <img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2023-12.gif" alt="LeetCode December 2023 Badge" height="200" width="200" />
+</a>
+
 <p align="center">
   
   <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/anand_038?theme=dark&font=Nunito&ext=heatmap" />  
